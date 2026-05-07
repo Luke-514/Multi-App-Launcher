@@ -4,7 +4,10 @@
 <img src="image/tool.jpg" width="50%" />  
   
 # 主な機能
-
+・ドラッグ＆ドロップによる直感的な起動順序変更  
+・起動までの待機時間を設定  
+・管理者権限での実行を個別に設定  
+・プリセットを作成して登録内容を切り替え  
   
 # ツールのダウンロードと起動
 1.&nbsp;[**Releases**](https://github.com/Luke-514/Multi-App-Launcher/releases/latest)からツールのZipファイル(Multi-App-Launcher.zip)をクリックしてダウンロードします  
