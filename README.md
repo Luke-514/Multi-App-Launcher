@@ -8,6 +8,7 @@
 ・起動までの待機時間を設定  
 ・管理者権限での実行を個別に設定  
 ・プリセットを作成して登録内容を切り替え  
+・最後に利用したプリセットを次回起動時に表示  
   
 # ツールのダウンロードと起動
 1.&nbsp;[**Releases**](https://github.com/Luke-514/Multi-App-Launcher/releases/latest)からツールのZipファイル(Multi-App-Launcher.zip)をクリックしてダウンロードします  
