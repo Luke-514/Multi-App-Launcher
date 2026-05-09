@@ -32,7 +32,7 @@
 # よくある質問
 Q.&nbsp;ツールが起動しない  
 A.&nbsp;Zipファイルを展開してからご利用ください  
-&emsp;<img src="image/unzip.jpg" width="70%" />  
+&emsp;<img src="image/unzip.png" width="70%" />  
   
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
