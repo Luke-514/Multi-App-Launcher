@@ -34,6 +34,21 @@
 2.&nbsp;すべて起動を押すと追加したものを上から順番に起動します  
 &nbsp;&emsp;<img src="image/launch.png" width="60%" />  
   
+3.&nbsp;ツール内での表示名を変更したい場合は、名前の部分が編集できます  
+&nbsp;&emsp;<img src="image/name.png" width="60%" />  
+  
+4.&nbsp;起動を待たせたい場合は、待機のところに待機させたい秒数をミリ秒単位で指定できます  
+&nbsp;&emsp;<img src="image/wait.png" width="60%" />  
+  
+5.&nbsp;管理者権限で実行させたい場合は、管理者のところにチェックを入れると、管理者権限で起動します  
+&nbsp;&emsp;<img src="image/admin.png" width="60%" />  
+  
+6.&nbsp;登録したアプリケーション等を削除したい場合は、Xボタンを押します  
+&nbsp;&emsp;<img src="image/delete.png" width="60%" />  
+  
+7.&nbsp;起動順を変更したい場合は、ドラッグ&ドロップで変更できます  
+&nbsp;&emsp;<img src="image/order.png" width="60%" />  
+  
 # よくある質問
 Q.&nbsp;ツールが起動しない  
 A.&nbsp;Zipファイルを展開してからご利用ください  
