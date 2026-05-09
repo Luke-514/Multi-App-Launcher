@@ -46,7 +46,7 @@
 6.&nbsp;登録したアプリケーション等を削除したい場合は、Xボタンを押します  
 &nbsp;&emsp;<img src="image/delete.png" width="60%" />  
   
-7.&nbsp;起動順を変更したい場合は、ドラッグ&ドロップで変更できます  
+7.&nbsp;起動順を変更したい場合は、ドラッグ&ドロップで順序が変更できます  
 &nbsp;&emsp;<img src="image/order.png" width="60%" />  
   
 # よくある質問
