@@ -1,7 +1,7 @@
 # これは何をするためのもの？
 アプリケーションやファイルなどをまとめて開くことのできるツールです  
   
-<img src="image/tool.jpg"/>  
+<img src="image/tool.jpg" width="60%" />  
   
 # 主な機能
 ・ドラッグ＆ドロップによる直感的な起動順序変更  
@@ -25,10 +25,10 @@
   
 # ツールの使い方
 1.&nbsp;追加ボタンを押します  
-&nbsp;&emsp;<img src="image/add.png"/>  
+&nbsp;&emsp;<img src="image/add.png" width="60%" />  
   
 2.&nbsp;すべて起動を押すと追加したものを上から順番に起動します  
-&nbsp;&emsp;<img src="image/launch.png"/>  
+&nbsp;&emsp;<img src="image/launch.png" width="60%" />  
   
 # よくある質問
 Q.&nbsp;ツールが起動しない  
