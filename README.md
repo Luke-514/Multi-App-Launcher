@@ -25,9 +25,10 @@
   
 # ツールの使い方
 1.&nbsp;追加ボタンを押します  
-&nbsp;&emsp;<img src="image/jp.jpg" width="50%" />  
+&nbsp;&emsp;<img src="image/add.png" width="50%" />  
   
 2.&nbsp;すべて起動を押すと追加したものを上から順番に起動します  
+&nbsp;&emsp;<img src="image/launch.png" width="50%" />  
   
 # よくある質問
 Q.&nbsp;ツールが起動しない  
