@@ -11,7 +11,7 @@
 ・最後に利用したプリセットを次回起動時に表示  
   
 # ツールのダウンロードと起動
-1.&nbsp;[**Releases**](https://github.com/Luke-514/Multi-App-Launcher/releases/latest)からツールのZipファイル(Multi-App-Launcher.zip)をクリックしてダウンロードします  
+1.&nbsp;[**Releases**](https://github.com/Luke-514/Multi-App-Launcher/releases/latest)からツールのZipファイル(Multi_App_Launcher.zip)をクリックしてダウンロードします  
   
 &emsp;<a href="https://github.com/Luke-514/Multi-App-Launcher/releases/latest"><img src="image/download.png" width="200" alt="ダウンロードはこちら！"></a>  
   
